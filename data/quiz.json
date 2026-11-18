@@ -1,0 +1,327 @@
+[
+  {
+    "id": 1,
+    "question": "Which planet in our solar system has a day that is longer than its year?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Mercury",
+      "Jupiter"
+    ],
+    "correct_index": 1,
+    "explanation": "Venus takes 243 Earth days to rotate once on its axis, but only 225 Earth days to orbit the Sun, making its day longer than its year!",
+    "category": "Space"
+  },
+  {
+    "id": 2,
+    "question": "What is the official typographical name for the dot over the letters 'i' and 'j'?",
+    "options": [
+      "Dotlet",
+      "Tittle",
+      "Pipsqueak",
+      "Apex"
+    ],
+    "correct_index": 1,
+    "explanation": "The dot over lowercase 'i' and 'j' is called a 'tittle', derived from the Latin word for a small mark or accent.",
+    "category": "General Knowledge"
+  },
+  {
+    "id": 3,
+    "question": "How many hearts does an octopus have?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correct_index": 2,
+    "explanation": "An octopus has three hearts! Two pump blood through its gills, while the third pumps it to the rest of its body.",
+    "category": "Animals"
+  },
+  {
+    "id": 4,
+    "question": "Which university was founded before the Aztec Empire was established?",
+    "options": [
+      "Harvard University",
+      "Oxford University",
+      "Cambridge University",
+      "Yale University"
+    ],
+    "correct_index": 1,
+    "explanation": "Teaching began at Oxford around 1096, while the Aztec civilization was founded centuries later in 1325.",
+    "category": "History"
+  },
+  {
+    "id": 5,
+    "question": "What percentage of an atom's volume is estimated to be empty space?",
+    "options": [
+      "50%",
+      "75%",
+      "90%",
+      "99.9999999%"
+    ],
+    "correct_index": 3,
+    "explanation": "Roughly 99.9999999% of an atom is empty space. If empty space were removed, the entire human race would fit in a sugar cube!",
+    "category": "Science"
+  },
+  {
+    "id": 6,
+    "question": "What was the very first computer mouse made out of in 1964?",
+    "options": [
+      "Aluminum",
+      "Plastic",
+      "Wood",
+      "Ceramic"
+    ],
+    "correct_index": 2,
+    "explanation": "The first computer mouse, invented by Doug Engelbart in 1964, was carved from wood with two perpendicular wheels.",
+    "category": "Technology"
+  },
+  {
+    "id": 7,
+    "question": "Which organ in the human body can completely regenerate itself even if 75% is removed?",
+    "options": [
+      "Kidney",
+      "Liver",
+      "Lungs",
+      "Spleen"
+    ],
+    "correct_index": 1,
+    "explanation": "The liver is the only internal organ capable of full natural regeneration back to normal functional size.",
+    "category": "Human Body"
+  },
+  {
+    "id": 8,
+    "question": "Which country has more natural lakes than all other countries in the world combined?",
+    "options": [
+      "Russia",
+      "Canada",
+      "Finland",
+      "Brazil"
+    ],
+    "correct_index": 1,
+    "explanation": "Canada boasts over 60% of all natural lakes on Earth, more than all other countries combined!",
+    "category": "Geography"
+  },
+  {
+    "id": 9,
+    "question": "What is the only sport ever played on the surface of the Moon?",
+    "options": [
+      "Baseball",
+      "Tennis",
+      "Golf",
+      "Cricket"
+    ],
+    "correct_index": 2,
+    "explanation": "Astronaut Alan Shepard hit two golf balls on the lunar surface during the Apollo 14 mission in 1971.",
+    "category": "Sports"
+  },
+  {
+    "id": 10,
+    "question": "Why does honey never spoil, even after thousands of years?",
+    "options": [
+      "Added preservatives",
+      "Low moisture and high acidity",
+      "Pasteurization",
+      "Synthetic enzymes"
+    ],
+    "correct_index": 1,
+    "explanation": "Honey's extremely low moisture content, high acidity (pH ~3.9), and hydrogen peroxide make it inhospitable for bacteria.",
+    "category": "Food"
+  },
+  {
+    "id": 11,
+    "question": "What is the underground fungal network connecting trees in a forest colloquially called?",
+    "options": [
+      "TreeNet",
+      "Wood Wide Web",
+      "RootLink",
+      "Biosphere Web"
+    ],
+    "correct_index": 1,
+    "explanation": "Coined by Nature journal, the 'Wood Wide Web' refers to the symbiotic mycorrhizal network connecting forest trees.",
+    "category": "Nature"
+  },
+  {
+    "id": 12,
+    "question": "What is the psychological term for forgetting why you entered a room upon crossing its threshold?",
+    "options": [
+      "Threshold Amnesia",
+      "The Doorway Effect",
+      "Boundary Lapse",
+      "Spatial Reset"
+    ],
+    "correct_index": 1,
+    "explanation": "The 'Doorway Effect' occurs when your brain creates a new mental event boundary upon walking through a physical door.",
+    "category": "Psychology"
+  },
+  {
+    "id": 13,
+    "question": "What color was the Statue of Liberty originally when France delivered it in 1885?",
+    "options": [
+      "Bright gold",
+      "Dark green",
+      "Reddish copper",
+      "Silver chrome"
+    ],
+    "correct_index": 2,
+    "explanation": "The Statue of Liberty is clad in copper sheets and was originally reddish-brown before natural oxidation produced the green patina.",
+    "category": "General Knowledge"
+  },
+  {
+    "id": 14,
+    "question": "What is the fastest projectile in racket sports?",
+    "options": [
+      "Tennis ball",
+      "Squash ball",
+      "Badminton shuttlecock",
+      "Table tennis ball"
+    ],
+    "correct_index": 2,
+    "explanation": "A badminton smash was clocked at 565 km/h (351 mph), making it the fastest projectile in all racket sports!",
+    "category": "Sports"
+  },
+  {
+    "id": 15,
+    "question": "Which continent touches all four hemispheres: Northern, Southern, Eastern, and Western?",
+    "options": [
+      "Asia",
+      "Africa",
+      "South America",
+      "Europe"
+    ],
+    "correct_index": 1,
+    "explanation": "Africa is the only continent traversed by both the Equator and the Prime Meridian, placing portions of it in all four hemispheres.",
+    "category": "Geography"
+  },
+  {
+    "id": 16,
+    "question": "What is the phenomenon where hot water can freeze faster than cold water called?",
+    "options": [
+      "The Mpemba effect",
+      "The Joule-Thomson effect",
+      "The Peltier effect",
+      "The Kelvin anomaly"
+    ],
+    "correct_index": 0,
+    "explanation": "The Mpemba effect is a paradoxical thermodynamic observation where warm water freezes quicker than cold water under certain conditions.",
+    "category": "Science"
+  },
+  {
+    "id": 17,
+    "question": "What color do sunsets appear on the surface of Mars?",
+    "options": [
+      "Crimson red",
+      "Emerald green",
+      "Pale blue",
+      "Golden amber"
+    ],
+    "correct_index": 2,
+    "explanation": "Due to dust particles scattering blue light directly toward the viewer, sunsets on Mars appear distinctly blue!",
+    "category": "Space"
+  },
+  {
+    "id": 18,
+    "question": "What was Google's original search engine project name?",
+    "options": [
+      "PageRank",
+      "Backrub",
+      "WebCrawler",
+      "Atlas"
+    ],
+    "correct_index": 1,
+    "explanation": "Larry Page and Sergey Brin originally called the search engine 'Backrub' because it analyzed backlink connections between pages.",
+    "category": "Technology"
+  },
+  {
+    "id": 19,
+    "question": "How do sea otters keep from drifting away from one another while sleeping in water?",
+    "options": [
+      "They tie seaweed to their tails",
+      "They hold hands",
+      "They anchor to reefs",
+      "They sleep in caves"
+    ],
+    "correct_index": 1,
+    "explanation": "Sea otters famously hold hands while floating asleep on their backs to keep families and pairs together in ocean currents.",
+    "category": "Animals"
+  },
+  {
+    "id": 20,
+    "question": "What is the only human tissue that has no direct blood supply and gets oxygen directly from the air?",
+    "options": [
+      "Cornea",
+      "Ear cartilage",
+      "Fingernails",
+      "Tooth enamel"
+    ],
+    "correct_index": 0,
+    "explanation": "The cornea is completely transparent and avascular; it gets oxygen directly from moisture in the air and tear film.",
+    "category": "Human Body"
+  },
+  {
+    "id": 21,
+    "question": "How long did the shortest recorded war in world history last (Anglo-Zanzibar War of 1896)?",
+    "options": [
+      "About 38 to 45 minutes",
+      "Half a day",
+      "3 days",
+      "7 days"
+    ],
+    "correct_index": 0,
+    "explanation": "The 1896 Anglo-Zanzibar War lasted between 38 and 45 minutes before Zanzibar forces surrendered.",
+    "category": "History"
+  },
+  {
+    "id": 22,
+    "question": "What is the world's most expensive spice by weight?",
+    "options": [
+      "Cardamom",
+      "Vanilla",
+      "Saffron",
+      "Cinnamon"
+    ],
+    "correct_index": 2,
+    "explanation": "Saffron is the costliest spice on Earth because it takes ~75,000 delicate crocus flower stigmas picked by hand for 1 pound of saffron.",
+    "category": "Food"
+  },
+  {
+    "id": 23,
+    "question": "Which cognitive bias describes when people with low competence overestimate their ability?",
+    "options": [
+      "Confirmation bias",
+      "The Dunning-Kruger effect",
+      "Anchoring bias",
+      "Hindsight bias"
+    ],
+    "correct_index": 1,
+    "explanation": "The Dunning-Kruger effect describes a cognitive bias where novices drastically overestimate their expertise.",
+    "category": "Psychology"
+  },
+  {
+    "id": 24,
+    "question": "What is the national animal of Scotland?",
+    "options": [
+      "Golden Eagle",
+      "Red Deer",
+      "Highland Bull",
+      "Unicorn"
+    ],
+    "correct_index": 3,
+    "explanation": "Scotland's official national animal is the mythological Unicorn, historically chosen for its fierce independence and noble pride.",
+    "category": "General Knowledge"
+  },
+  {
+    "id": 25,
+    "question": "What is the fastest-growing woody plant on planet Earth?",
+    "options": [
+      "Kudzu vine",
+      "Giant Bamboo",
+      "Coastal Redwood",
+      "Willow tree"
+    ],
+    "correct_index": 1,
+    "explanation": "Certain species of bamboo can grow up to 91 cm (35 inches) in a single 24-hour period!",
+    "category": "Nature"
+  }
+]

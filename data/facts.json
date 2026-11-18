@@ -1,0 +1,770 @@
+[
+  {
+    "category": "Science",
+    "fact_text": "Water can boil and freeze at the exact same time under specific conditions known as the 'triple point', where temperature and pressure are in perfect thermodynamic equilibrium."
+  },
+  {
+    "category": "Science",
+    "fact_text": "A single bolt of lightning contains enough energy to toast approximately 100,000 slices of bread, reaching temperatures up to 30,000 Kelvin (five times hotter than the surface of the Sun)."
+  },
+  {
+    "category": "Science",
+    "fact_text": "Helium is the only element on Earth that was discovered in space before it was found on our planet, first observed as an unknown yellow spectral line in sunlight during an 1868 solar eclipse."
+  },
+  {
+    "category": "Science",
+    "fact_text": "If you uncoiled all the DNA in all your body's cells, it would stretch about 10 billion miles, reaching from Earth to Pluto and back again."
+  },
+  {
+    "category": "Science",
+    "fact_text": "Glass is not actually a slow-flowing liquid; it is an 'amorphous solid', meaning its atoms are locked in a disordered, non-crystalline arrangement."
+  },
+  {
+    "category": "Science",
+    "fact_text": "Hot water freezes faster than cold water under certain thermodynamic conditions, a counterintuitive physical phenomenon known as the Mpemba effect."
+  },
+  {
+    "category": "Science",
+    "fact_text": "Diamonds and pencil lead (graphite) are both made entirely of pure carbon atoms; their drastically different properties arise solely from how their atoms are bonded."
+  },
+  {
+    "category": "Science",
+    "fact_text": "About 99.9999999% of an atom's volume is completely empty space. If you removed all the empty space from every atom in all humans, the entire human race would fit inside a single sugar cube."
+  },
+  {
+    "category": "Science",
+    "fact_text": "Sound waves cannot travel through a vacuum because they require a physical medium like air, water, or solid matter to propagate vibrations."
+  },
+  {
+    "category": "Science",
+    "fact_text": "Graphene is a single layer of carbon atoms arranged in a 2D honeycomb lattice that is 200 times stronger than steel and conducts electricity better than copper."
+  },
+  {
+    "category": "Science",
+    "fact_text": "Neutron stars are so exceptionally dense that a single teaspoon of neutron star material would weigh roughly 6 billion tons on Earth."
+  },
+  {
+    "category": "Science",
+    "fact_text": "Light travels from the Sun to Earth in approximately 8 minutes and 20 seconds, but the photons take tens of thousands of years to travel from the Sun's core to its surface."
+  },
+  {
+    "category": "Science",
+    "fact_text": "Tears produced by different emotions have different chemical compositions under a microscope; emotional tears contain higher levels of stress hormones and prolactin than lubricating tears."
+  },
+  {
+    "category": "Science",
+    "fact_text": "Absolute zero (-273.15°C or 0 Kelvin) is the theoretical temperature where all classical molecular motion ceases entirely, though quantum fluctuations still persist."
+  },
+  {
+    "category": "Science",
+    "fact_text": "Bananas are naturally radioactive because they contain potassium-40, a radioactive isotope of potassium, though you would need to eat millions at once for any harmful effect."
+  },
+  {
+    "category": "Science",
+    "fact_text": "Quantum entanglement allows two entangled particles to instantly influence each other's state regardless of the distance separating them, an effect Einstein called 'spooky action at a distance'."
+  },
+  {
+    "category": "Space",
+    "fact_text": "One day on Venus is longer than one year on Venus; it takes Venus 243 Earth days to rotate once on its axis, but only 225 Earth days to complete an orbit around the Sun."
+  },
+  {
+    "category": "Space",
+    "fact_text": "Sunset on Mars appears distinctly blue due to fine dust particles in the thin Martian atmosphere that scatter blue light toward the observer more effectively."
+  },
+  {
+    "category": "Space",
+    "fact_text": "Footprints left by Apollo astronauts on the Moon will likely remain intact for at least 100 million years because there is no wind or water erosion on the lunar surface."
+  },
+  {
+    "category": "Space",
+    "fact_text": "In space, two pieces of the same type of clean metal will permanently fuse together if touched, a phenomenon called 'cold welding' prevented on Earth by atmospheric oxidation."
+  },
+  {
+    "category": "Space",
+    "fact_text": "Saturn could theoretically float in water because its average density is about 0.687 g/cm³, which is lower than the density of liquid water (1 g/cm³)."
+  },
+  {
+    "category": "Space",
+    "fact_text": "There is a giant interstellar molecular cloud near the center of our Milky Way galaxy called Sagittarius B2 that contains billions of liters of vinyl alcohol and ethyl formate (which smells like rum)."
+  },
+  {
+    "category": "Space",
+    "fact_text": "Olympus Mons on Mars is the largest volcano in the Solar System, towering nearly 22 kilometers (13.6 miles) high, roughly two and a half times taller than Mount Everest."
+  },
+  {
+    "category": "Space",
+    "fact_text": "The International Space Station orbits Earth at roughly 28,000 km/h (17,500 mph), allowing astronauts aboard to experience 16 sunrises and sunsets every single day."
+  },
+  {
+    "category": "Space",
+    "fact_text": "The Great Red Spot on Jupiter is a colossal anticyclonic storm larger than planet Earth that has been raging continuously for at least 350 years."
+  },
+  {
+    "category": "Space",
+    "fact_text": "There are more trees on Earth (estimated at over 3 trillion) than there are stars in the Milky Way galaxy (estimated at 100 to 400 billion)."
+  },
+  {
+    "category": "Space",
+    "fact_text": "A full NASA spacesuit costs approximately $12 million to construct, with roughly 70% of that total cost dedicated to the backpack life-support system."
+  },
+  {
+    "category": "Space",
+    "fact_text": "Because light takes time to travel across the cosmos, when you look at the Andromeda Galaxy through a telescope, you are looking 2.5 million years into the past."
+  },
+  {
+    "category": "Space",
+    "fact_text": "On Uranus, each pole experiences 42 years of continuous sunlight followed by 42 years of uninterrupted darkness because the planet rotates tilted 98 degrees on its side."
+  },
+  {
+    "category": "Space",
+    "fact_text": "Voyager 1, launched in 1977, is the farthest human-made object from Earth, currently over 24 billion kilometers away in interstellar space and still transmitting data."
+  },
+  {
+    "category": "Space",
+    "fact_text": "Venus rotates in the opposite direction to most planets in our solar system (retrograde rotation), meaning the Sun rises in the west and sets in the east."
+  },
+  {
+    "category": "Space",
+    "fact_text": "The Moon is gradually drifting away from Earth at a rate of approximately 3.8 centimeters (1.5 inches) per year due to tidal friction and energy transfer."
+  },
+  {
+    "category": "Technology",
+    "fact_text": "The very first computer mouse was carved out of wood in 1964 by Doug Engelbart and featured two perpendicular metal wheels underneath."
+  },
+  {
+    "category": "Technology",
+    "fact_text": "The Apollo 11 Guidance Computer that landed Neil Armstrong on the Moon in 1969 had only 4 kilobytes of RAM and operated at a clock frequency of just 2.048 MHz."
+  },
+  {
+    "category": "Technology",
+    "fact_text": "The term 'bug' in computing became famous when computer scientist Grace Hopper found an actual moth trapped inside a relay of the Harvard Mark II computer in 1947."
+  },
+  {
+    "category": "Technology",
+    "fact_text": "The world's first website (info.cern.ch) was published on August 6, 1991, by Tim Berners-Lee at CERN, and the page is still accessible online today."
+  },
+  {
+    "category": "Technology",
+    "fact_text": "Over 90% of the world's currency exists only in digital form on computer servers; only about 8-10% exists as physical paper cash or coins."
+  },
+  {
+    "category": "Technology",
+    "fact_text": "The QWERTY keyboard layout was patented by Christopher Sholes in 1878 intentionally to space out common letter pairs and prevent mechanical typewriter keys from jamming."
+  },
+  {
+    "category": "Technology",
+    "fact_text": "The original name for Google was 'Backrub' because its core algorithm analyzed the backlinks connecting web pages to gauge their relevance and importance."
+  },
+  {
+    "category": "Technology",
+    "fact_text": "The first 1-gigabyte hard drive, introduced by IBM in 1980 (the IBM 3380), weighed about 550 pounds (250 kg) and cost $40,000."
+  },
+  {
+    "category": "Technology",
+    "fact_text": "More than 500 hours of video content are uploaded to YouTube every single minute, equating to over 720,000 hours of new video published every day."
+  },
+  {
+    "category": "Technology",
+    "fact_text": "The first SMS text message ever sent was transmitted on December 3, 1992, over the Vodafone GSM network in the UK; the message read simply: 'Merry Christmas'."
+  },
+  {
+    "category": "Technology",
+    "fact_text": "Bluetooth technology was named after 10th-century King Harald Bluetooth of Denmark, who united Scandinavian tribes just as Bluetooth unites communication protocols."
+  },
+  {
+    "category": "Technology",
+    "fact_text": "The programming language Python was not named after the snake, but after the beloved British comedy television show 'Monty Python's Flying Circus'."
+  },
+  {
+    "category": "Technology",
+    "fact_text": "The first digital camera was invented in 1975 by Kodak engineer Steven Sasson; it weighed 8 pounds, had a resolution of 0.01 megapixels, and took 23 seconds to record onto a cassette tape."
+  },
+  {
+    "category": "Technology",
+    "fact_text": "Over 99% of all international data traffic travels through high-speed undersea fiber-optic submarine cables laid across the ocean floor, not satellites."
+  },
+  {
+    "category": "Technology",
+    "fact_text": "The famous robot Captcha test stands for 'Completely Automated Public Turing test to tell Computers and Humans Apart'."
+  },
+  {
+    "category": "Technology",
+    "fact_text": "WiFi does not stand for 'Wireless Fidelity'; it was created purely as a catchy rhyming marketing buzzword chosen from a list proposed by branding firm Interbrand."
+  },
+  {
+    "category": "Animals",
+    "fact_text": "An octopus has three functioning hearts and blue copper-based blood; two hearts pump blood to the gills, while the third pumps it through the rest of the body."
+  },
+  {
+    "category": "Animals",
+    "fact_text": "Crows and ravens can recognize and remember individual human faces for years, and they communicate with other members of their murder about who is friendly or hostile."
+  },
+  {
+    "category": "Animals",
+    "fact_text": "A blue whale's heart is about the size of a small car and can weigh over 400 pounds (180 kg), beating only 2 to 8 times per minute while diving."
+  },
+  {
+    "category": "Animals",
+    "fact_text": "Sea otters hold hands while sleeping in water to prevent themselves from floating away from each other in strong ocean currents."
+  },
+  {
+    "category": "Animals",
+    "fact_text": "Flamingos are not born pink; their feathers gain their iconic rosy color entirely from eating carotenoid pigments found in brine shrimp and blue-green algae."
+  },
+  {
+    "category": "Animals",
+    "fact_text": "Koalas have unique individual fingerprints that are so similar in ridge patterns to human fingerprints that they could confuse detectives at a crime scene."
+  },
+  {
+    "category": "Animals",
+    "fact_text": "Butterflies taste their food using sensitive chemoreceptors located on their feet, allowing them to instantly know if a leaf is suitable for egg-laying."
+  },
+  {
+    "category": "Animals",
+    "fact_text": "The immortal jellyfish (Turritopsis dohrnii) can revert its adult cells back into its earliest juvenile polyp stage when stressed or injured, theoretically living indefinitely."
+  },
+  {
+    "category": "Animals",
+    "fact_text": "Honeybees communicate the precise direction and distance of nectar-rich flowers through an intricate dance called the 'waggle dance'."
+  },
+  {
+    "category": "Animals",
+    "fact_text": "Cows have best friends among their herd and experience measurable physiological stress when separated from their favorite companions."
+  },
+  {
+    "category": "Animals",
+    "fact_text": "A mantis shrimp can punch with the acceleration of a .22 caliber bullet (over 50 mph), striking with enough force to boil water and break aquarium glass."
+  },
+  {
+    "category": "Animals",
+    "fact_text": "Pigeons can be trained to detect cancerous tissue on mammogram scans with an accuracy level exceeding 85%, matching trained radiologists."
+  },
+  {
+    "category": "Animals",
+    "fact_text": "Sloths can take up to a full month to digest a single leaf, possessing the slowest metabolic rate of any non-hibernating mammal."
+  },
+  {
+    "category": "Animals",
+    "fact_text": "Platypuses don't have stomachs; their gullet connects directly to their intestines without an acid-producing digestive chamber."
+  },
+  {
+    "category": "Animals",
+    "fact_text": "Elephants are capable of hearing sound waves through their feet; special receptors called Pacinian corpuscles detect seismic vibrations through the ground from miles away."
+  },
+  {
+    "category": "Animals",
+    "fact_text": "Tigers have striped skin beneath their fur; the distinctive pattern of stripes is uniquely pigmented into their dermis just like a human fingerprint."
+  },
+  {
+    "category": "Human Body",
+    "fact_text": "Your brain uses approximately 20% of your body's total energy and oxygen intake, despite accounting for only about 2% of your overall body weight."
+  },
+  {
+    "category": "Human Body",
+    "fact_text": "The human eye can distinguish approximately 10 million distinct colors, processing visual signals with over 100 million photoreceptor cells."
+  },
+  {
+    "category": "Human Body",
+    "fact_text": "Your stomach lining completely replaces itself every 3 to 4 days to prevent stomach acid (hydrochloric acid) from digesting the organ itself."
+  },
+  {
+    "category": "Human Body",
+    "fact_text": "Human bones are remarkably strong; ounce for ounce, bone tissue has greater compressive strength than reinforced concrete and can support up to 9 tonnes of weight."
+  },
+  {
+    "category": "Human Body",
+    "fact_text": "The human body contains about 60,000 miles (nearly 100,000 km) of blood vessels, enough to circle the Earth more than two times."
+  },
+  {
+    "category": "Human Body",
+    "fact_text": "You are approximately 1 centimeter taller in the morning than in the evening because gravity compresses the soft cartilage discs in your spine throughout the day."
+  },
+  {
+    "category": "Human Body",
+    "fact_text": "The cornea in the human eye is the only tissue in the entire body that receives no blood supply directly; it absorbs oxygen directly from the air."
+  },
+  {
+    "category": "Human Body",
+    "fact_text": "The strongest muscle in the human body based on its weight is the masseter (jaw muscle), which can close your teeth with a force of up to 200 pounds (90 kg)."
+  },
+  {
+    "category": "Human Body",
+    "fact_text": "A human sneeze can travel out of your mouth and nose at speeds of up to 100 miles per hour (160 km/h), sending up to 100,000 droplets into the air."
+  },
+  {
+    "category": "Human Body",
+    "fact_text": "Your liver is the only human organ capable of natural complete regeneration; it can regrow to full size even after up to 75% of it has been surgically removed."
+  },
+  {
+    "category": "Human Body",
+    "fact_text": "Humans shed approximately 30,000 to 40,000 dead skin cells every single minute, which totals nearly 9 pounds (4 kg) of shed skin cells every year."
+  },
+  {
+    "category": "Human Body",
+    "fact_text": "Every person on Earth has a completely unique tongue print with distinct patterns of grooves and ridges, just like fingerprints."
+  },
+  {
+    "category": "Human Body",
+    "fact_text": "The average human heart beats around 100,000 times a day and pumps about 2,000 gallons (7,500 liters) of blood through the circulatory network daily."
+  },
+  {
+    "category": "Human Body",
+    "fact_text": "Nerve impulses in the human nervous system can travel at speeds up to 270 miles per hour (430 km/h), allowing near-instantaneous sensory reaction."
+  },
+  {
+    "category": "Human Body",
+    "fact_text": "The human nose can remember and distinguish up to 1 trillion different scents according to sensory research by Rockefeller University."
+  },
+  {
+    "category": "Human Body",
+    "fact_text": "Babies are born with approximately 300 bones, but as they grow into adults, many of these bones fuse together, leaving an adult with 206 bones."
+  },
+  {
+    "category": "History",
+    "fact_text": "Cleopatra lived chronologically closer to the 1969 Apollo Moon landing than she did to the construction of the Great Pyramid of Giza."
+  },
+  {
+    "category": "History",
+    "fact_text": "The shortest war in recorded human history occurred between Britain and Zanzibar on August 27, 1896; Zanzibar surrendered after just 38 to 45 minutes."
+  },
+  {
+    "category": "History",
+    "fact_text": "Oxford University in England is older than the Aztec Empire; teaching began at Oxford around 1096, while the Aztec civilization was founded in 1325."
+  },
+  {
+    "category": "History",
+    "fact_text": "Ancient Roman concrete was so durable that structures like the Pantheon remain standing after 2,000 years, partly because volcanic ash and quicklime gave it self-healing properties."
+  },
+  {
+    "category": "History",
+    "fact_text": "During the Middle Ages in Europe, animals including pigs, dogs, and roosters were frequently put on official legal trials with human lawyers and judges."
+  },
+  {
+    "category": "History",
+    "fact_text": "Woolly mammoths were still roaming Wrangel Island in the Arctic Ocean while the Great Pyramids of Egypt were actively being built."
+  },
+  {
+    "category": "History",
+    "fact_text": "In ancient Egypt, workers constructing tombs and pyramids were often paid in daily rations of beer and bread, which was considered nutritious and safe to consume."
+  },
+  {
+    "category": "History",
+    "fact_text": "Napoleon Bonaparte was once attacked and mobbed by a swarm of hundreds of domesticated rabbits during an arranged rabbit hunt in 1807."
+  },
+  {
+    "category": "History",
+    "fact_text": "The Great Fire of London in 1666 consumed more than 13,000 homes and devastated 80% of the city, yet the official recorded death toll was remarkably only 6 people."
+  },
+  {
+    "category": "History",
+    "fact_text": "Before alarm clocks were affordable, people in Victorian Britain hired 'knocker-ups' who tapped on bedroom windows with long bamboo sticks or pea-shooters to wake them for work."
+  },
+  {
+    "category": "History",
+    "fact_text": "Alexander the Great accidentally founded or renamed over 70 cities after himself, and he even named one city (Bucephala) after his favorite warhorse, Bucephalus."
+  },
+  {
+    "category": "History",
+    "fact_text": "The ancient Olympic Games were held continuously every four years for over a millennium, from 776 BC until Emperor Theodosius I banned them in 393 AD."
+  },
+  {
+    "category": "History",
+    "fact_text": "Albert Einstein was formally offered the presidency of the newly founded State of Israel in 1952, but he politely declined, stating he lacked the head for human problems."
+  },
+  {
+    "category": "History",
+    "fact_text": "The United States and Canada share the longest non-militarized international land border in the world, spanning 5,525 miles (8,891 km)."
+  },
+  {
+    "category": "History",
+    "fact_text": "In 1912, three men completed an expedition across Antarctica to recover emperor penguin eggs, suffering temperatures as low as -77°F; the account was titled 'The Worst Journey in the World'."
+  },
+  {
+    "category": "History",
+    "fact_text": "Julius Caesar was once kidnapped by Cilician pirates who demanded 20 talents of silver for his release; Caesar laughed, insisted he was worth at least 50, and later captured and crucified them."
+  },
+  {
+    "category": "Geography",
+    "fact_text": "Russia spans 11 time zones, covering roughly one-tenth of all the landmass on Earth, making it larger in surface area than Pluto."
+  },
+  {
+    "category": "Geography",
+    "fact_text": "Canada has more natural freshwater lakes than all the rest of the world's countries combined, containing roughly 60% of all lakes on Earth."
+  },
+  {
+    "category": "Geography",
+    "fact_text": "The Pacific Ocean is so vast that it is larger in total area than all the dry land surfaces of Earth combined, covering more than 63 million square miles."
+  },
+  {
+    "category": "Geography",
+    "fact_text": "The continent of Africa is the only continent on Earth that extends into all four geographic hemispheres: Northern, Southern, Eastern, and Western."
+  },
+  {
+    "category": "Geography",
+    "fact_text": "Point Nemo in the South Pacific Ocean is the most isolated place on Earth; the nearest humans are often the astronauts orbiting 250 miles above on the International Space Station."
+  },
+  {
+    "category": "Geography",
+    "fact_text": "Istanbul, Turkey is the only historic metropolis in the world located across two continents simultaneously, separated by the scenic Bosphorus Strait between Europe and Asia."
+  },
+  {
+    "category": "Geography",
+    "fact_text": "The Dead Sea's surface and shores are 430.5 meters (1,412 feet) below sea level, making it the lowest land elevation anywhere on the surface of the Earth."
+  },
+  {
+    "category": "Geography",
+    "fact_text": "Iceland does not have a single mosquito, snake, or native reptile due to its harsh volcanic climate and rapid changes in seasonal freezing and thawing."
+  },
+  {
+    "category": "Geography",
+    "fact_text": "The Kingdom of Lesotho in southern Africa is the only independent country in the world situated entirely above 1,000 meters (3,281 feet) in elevation."
+  },
+  {
+    "category": "Geography",
+    "fact_text": "The Amazon River carries so much freshwater into the Atlantic Ocean that for over 100 miles offshore, the ocean water on the surface remains completely drinkable."
+  },
+  {
+    "category": "Geography",
+    "fact_text": "Australia is wider than the Moon; Australia measures about 4,000 kilometers from east to west, whereas the Moon's diameter is roughly 3,474 kilometers."
+  },
+  {
+    "category": "Geography",
+    "fact_text": "The country of Bhutan absorbs more carbon dioxide than it emits, making it one of the few officially carbon-negative nations in the world."
+  },
+  {
+    "category": "Geography",
+    "fact_text": "Mount Chimborazo in Ecuador, not Mount Everest, is the point on Earth's surface closest to outer space, due to Earth's equatorial bulge causing its peak to sit highest from Earth's center."
+  },
+  {
+    "category": "Geography",
+    "fact_text": "The Sahara Desert was once a lush, green tropical savannah with vast lakes and teeming wildlife just 6,000 years ago, transformed by a slow shift in Earth's orbital tilt."
+  },
+  {
+    "category": "Geography",
+    "fact_text": "Monaco is so compact (roughly 2 square kilometers) that it could fit comfortably inside New York City's Central Park with room to spare."
+  },
+  {
+    "category": "Geography",
+    "fact_text": "Norway's coastline, when including all of its deep coastal fjords, islands, and inlets, stretches over 100,000 kilometers (62,000 miles), enough to wrap around Earth twice."
+  },
+  {
+    "category": "Nature",
+    "fact_text": "Trees in a forest communicate and share essential nutrients through an underground symbiotic network of fungal mycelium, often called the 'Wood Wide Web'."
+  },
+  {
+    "category": "Nature",
+    "fact_text": "A single mature oak tree can drop up to 10,000 acorns in a single productive year, supporting dozens of woodland bird and mammal species."
+  },
+  {
+    "category": "Nature",
+    "fact_text": "The smell of freshly cut grass is actually a distress signal; plants release volatile organic compounds called green leaf volatiles to warn neighboring plants of injury."
+  },
+  {
+    "category": "Nature",
+    "fact_text": "Pando, a clonal colony of quaking aspen in Utah, is considered one of the world's heaviest and oldest living organisms, sharing a single root system weighing 6,000 tonnes."
+  },
+  {
+    "category": "Nature",
+    "fact_text": "Bamboo is the fastest-growing woody plant on Earth; certain species can grow up to 91 centimeters (35 inches) within a single 24-hour period."
+  },
+  {
+    "category": "Nature",
+    "fact_text": "Lightning strikes planet Earth approximately 8 million times every single day, or about 100 times every second."
+  },
+  {
+    "category": "Nature",
+    "fact_text": "The Rainbow Eucalyptus tree naturally sheds its outer bark at varying times throughout the year, revealing vibrant bright neon green, blue, purple, and orange layers beneath."
+  },
+  {
+    "category": "Nature",
+    "fact_text": "Antarctica is technically classified as the world's largest desert because it receives an average of only 2 inches (50 mm) of precipitation annually."
+  },
+  {
+    "category": "Nature",
+    "fact_text": "Some pine cones, like those of the Lodgepole Pine, are 'serotinous', meaning they are sealed with resin and will only open to disperse seeds when exposed to the high heat of a forest fire."
+  },
+  {
+    "category": "Nature",
+    "fact_text": "Over 70% of the world's oxygen is produced not by rainforests, but by marine phytoplankton and photosynthetic algae drifting in the upper layers of our oceans."
+  },
+  {
+    "category": "Nature",
+    "fact_text": "Sunflowers exhibit heliotropism as young plants, tracking the Sun from east to west across the sky, but when mature, they permanently face east to warm up quickly and attract pollinators."
+  },
+  {
+    "category": "Nature",
+    "fact_text": "A cubic foot of healthy garden soil can contain more than 1 trillion beneficial microorganisms, bacteria, and microscopic fungal threads."
+  },
+  {
+    "category": "Nature",
+    "fact_text": "The deepest known living root system belongs to a shepherd's tree (Boscia albitrunca) in the Kalahari Desert, extending over 68 meters (223 feet) down to find water."
+  },
+  {
+    "category": "Nature",
+    "fact_text": "Some desert seeds can lie dormant in arid soil for decades, then suddenly sprout, bloom, and produce seeds within weeks following a rare single desert rainstorm."
+  },
+  {
+    "category": "Nature",
+    "fact_text": "Morning dew forms when the temperature of grass and leaves drops below the dew point, causing water vapor in air to condense directly into droplets."
+  },
+  {
+    "category": "Nature",
+    "fact_text": "The world's tallest living tree is a coastal redwood named Hyperion in Northern California, measured at an incredible 115.92 meters (380.3 feet) in height."
+  },
+  {
+    "category": "Food",
+    "fact_text": "Honey never spoils; archaeologists excavating 3,000-year-old ancient Egyptian tombs have found sealed pots of honey that are still completely edible and pristine."
+  },
+  {
+    "category": "Food",
+    "fact_text": "Apples, peaches, cherries, pears, strawberries, and raspberries are all botanical cousins belonging to the Rosaceae (rose) family of flowering plants."
+  },
+  {
+    "category": "Food",
+    "fact_text": "Nutmeg contains myristicin, a compound with psychoactive properties that can produce mild hallucinations and nausea if consumed in extremely large quantities."
+  },
+  {
+    "category": "Food",
+    "fact_text": "White chocolate is technically not chocolate by strict cocoa standards because it contains zero solid cocoa liquor or powder, consisting only of cocoa butter, sugar, and milk."
+  },
+  {
+    "category": "Food",
+    "fact_text": "Wasabi served in most sushi restaurants outside Japan is rarely real wasabi; it is usually horseradish dyed green with mustard extract and food coloring."
+  },
+  {
+    "category": "Food",
+    "fact_text": "Carrots were originally purple, yellow, and white; the familiar bright orange carrot was deliberately bred by Dutch growers in the 17th century to honor the royal House of Orange."
+  },
+  {
+    "category": "Food",
+    "fact_text": "Pineapples take nearly two to three years to produce a single fruit, and each pineapple plant produces only one pine-shaped fruit per harvesting cycle."
+  },
+  {
+    "category": "Food",
+    "fact_text": "Saffron is the world's most expensive spice by weight because it takes roughly 75,000 crocus flowers, hand-harvested, to yield just one single pound of dried saffron threads."
+  },
+  {
+    "category": "Food",
+    "fact_text": "Ketchup was sold in the United States in the 1830s as a patent medicine endorsed by physicians to cure indigestion, diarrhea, and jaundice."
+  },
+  {
+    "category": "Food",
+    "fact_text": "Cashews do not grow inside normal pods; each cashew nut grows dangling from the bottom of an edible tropical fruit known as the cashew apple."
+  },
+  {
+    "category": "Food",
+    "fact_text": "Pistachios can spontaneously combust if stored improperly in large commercial bulk shipments due to their high fat and low water content undergoing self-heating oxidation."
+  },
+  {
+    "category": "Food",
+    "fact_text": "The heat of chili peppers is caused by capsaicin, which tricks mammal pain receptors into detecting burning heat, though birds lack these receptors and can eat them without feeling heat."
+  },
+  {
+    "category": "Food",
+    "fact_text": "Cucumbers are botanically categorized as berries; they consist of roughly 96% water, making them the most hydrating solid vegetable you can consume."
+  },
+  {
+    "category": "Food",
+    "fact_text": "Coffee beans are not actually beans; they are the pits or seeds found inside the bright red fruit cherries of the Coffea shrub plant."
+  },
+  {
+    "category": "Food",
+    "fact_text": "Almonds are botanically seeds of a drupe (stone fruit) and are very closely related to peaches and apricots rather than true tree nuts like acorns."
+  },
+  {
+    "category": "Food",
+    "fact_text": "Vanilla is the second most expensive spice in the world, harvested from the cured seed pods of a climbing orchid flower that must be painstakingly hand-pollinated within hours of blooming."
+  },
+  {
+    "category": "Psychology",
+    "fact_text": "The 'Bystander Effect' is a psychological phenomenon where individuals are statistically less likely to offer help to a victim when other people are present."
+  },
+  {
+    "category": "Psychology",
+    "fact_text": "The 'Placebo Effect' can still work even when patients are explicitly told they are taking an inactive dummy sugar pill, known as an 'open-label placebo'."
+  },
+  {
+    "category": "Psychology",
+    "fact_text": "The Dunning-Kruger effect is a cognitive bias where people with low competence in a domain substantially overestimate their ability, while true experts tend to underestimate theirs."
+  },
+  {
+    "category": "Psychology",
+    "fact_text": "Our brains are wired with 'negativity bias', meaning we naturally recall and dwell on negative experiences and criticisms more intensely than positive ones as an evolutionary survival mechanism."
+  },
+  {
+    "category": "Psychology",
+    "fact_text": "The 'Doorway Effect' is a genuine psychological event: walking through a physical doorway often causes you to forget what you entered the room to do because your brain creates a new mental event boundary."
+  },
+  {
+    "category": "Psychology",
+    "fact_text": "Yawning when you see someone else yawn is linked to social empathy; brain imaging shows that contagious yawning activates neural networks associated with empathy and bonding."
+  },
+  {
+    "category": "Psychology",
+    "fact_text": "The 'Baader-Meinhof phenomenon', or frequency illusion, occurs when a word, concept, or thing you recently learned about suddenly seems to appear everywhere around you."
+  },
+  {
+    "category": "Psychology",
+    "fact_text": "Studies demonstrate that spending money on memorable experiences (like travel, concerts, or learning skills) produces significantly more lasting happiness than buying material possessions."
+  },
+  {
+    "category": "Psychology",
+    "fact_text": "The 'Zeigarnik Effect' states that human memory retains uncompleted or interrupted tasks much better than completed ones, which is why cliffhangers in television are so memorable."
+  },
+  {
+    "category": "Psychology",
+    "fact_text": "Music stimulates the exact same reward centers in the human brain (releasing dopamine) as eating delicious food or feeling romantic affection."
+  },
+  {
+    "category": "Psychology",
+    "fact_text": "Expressing sincere gratitude daily has been shown in clinical psychology to measurably alter neural structures, boosting long-term subjective well-being and reducing stress."
+  },
+  {
+    "category": "Psychology",
+    "fact_text": "The 'Halo Effect' causes people to unconsciously assume that someone who possesses one positive trait (such as physical attractiveness) also possesses other virtues like intelligence and kindness."
+  },
+  {
+    "category": "Psychology",
+    "fact_text": "Writing your thoughts and worries down by hand before sleeping helps clear working memory and lowers physiological pre-sleep cognitive arousal, helping you fall asleep faster."
+  },
+  {
+    "category": "Psychology",
+    "fact_text": "Smell is the human sense most closely linked to memory and emotion because the olfactory bulb connects directly to the amygdala and hippocampus in the limbic system."
+  },
+  {
+    "category": "Psychology",
+    "fact_text": "The human brain cannot truly multitask when performing complex cognitive tasks; it rapidly switches back and forth between tasks, lowering efficiency by up to 40%."
+  },
+  {
+    "category": "Psychology",
+    "fact_text": "A 20-second hug triggers the release of oxytocin, a neurohormone that lowers blood pressure, eases anxiety, and builds interpersonal trust and emotional safety."
+  },
+  {
+    "category": "Sports",
+    "fact_text": "Olympic gold medals are actually made mostly of sterling silver; modern Olympic 'gold' medals consist of at least 92.5% silver with just a 6-gram pure gold plating."
+  },
+  {
+    "category": "Sports",
+    "fact_text": "Golf is the only sport ever played on another celestial body; in 1971, astronaut Alan Shepard hit two golf balls on the lunar surface during the Apollo 14 mission."
+  },
+  {
+    "category": "Sports",
+    "fact_text": "A standard Major League Baseball game uses dozens of brand-new baseballs that are all rubbed with a special, secret mud sourced only from a secluded spot along the Delaware River."
+  },
+  {
+    "category": "Sports",
+    "fact_text": "The sport of basketball was invented in December 1891 by Dr. James Naismith in Springfield, Massachusetts, using two peach baskets nailed to balcony railings as the goals."
+  },
+  {
+    "category": "Sports",
+    "fact_text": "The fastest recorded badminton smash in professional competition clocked in at an astonishing 565 km/h (351 mph), making badminton shuttlecocks the fastest projectiles in racket sports."
+  },
+  {
+    "category": "Sports",
+    "fact_text": "The modern marathon distance of 26 miles and 385 yards (42.195 km) was established at the 1908 London Olympics so the race could start at Windsor Castle and finish in front of the Royal Box."
+  },
+  {
+    "category": "Sports",
+    "fact_text": "Table tennis balls can spin at up to 9,000 revolutions per minute during elite professional tournament play, creating sharp curve trajectories due to the Magnus effect."
+  },
+  {
+    "category": "Sports",
+    "fact_text": "Curling stones used in the Olympic Games are crafted exclusively from a rare, water-resistant microgranite harvested from the uninhabited Scottish island of Ailsa Craig."
+  },
+  {
+    "category": "Sports",
+    "fact_text": "The world record for the longest recorded tennis match in history took 11 hours and 5 minutes over three days at Wimbledon 2010 between John Isner and Nicolas Mahut."
+  },
+  {
+    "category": "Sports",
+    "fact_text": "Formula 1 drivers can lose between 3 to 4 kilograms (6 to 9 pounds) of body fluid in sweat during a two-hour Grand Prix race due to intense cockpit heat and heavy G-forces."
+  },
+  {
+    "category": "Sports",
+    "fact_text": "A regulation soccer ball is a truncated icosahedron consisting of precisely 32 panels: 12 black regular pentagons and 20 white regular hexagons."
+  },
+  {
+    "category": "Sports",
+    "fact_text": "Before yellow tennis balls were introduced at Wimbledon in 1986, tennis was traditionally played with white tennis balls; yellow was chosen because it showed up clearer on color television."
+  },
+  {
+    "category": "Sports",
+    "fact_text": "Michael Phelps has won 28 Olympic medals (including 23 golds), more than 161 entire participating countries have won in their entire Olympic history."
+  },
+  {
+    "category": "Sports",
+    "fact_text": "The first modern Olympic Games held in Athens in 1896 awarded the champions a silver medal and an olive branch crown; runners-up received a copper medal."
+  },
+  {
+    "category": "Sports",
+    "fact_text": "In cricket, the legendary Australian batsman Sir Donald Bradman retired with a career Test batting average of 99.94, requiring just 4 runs in his final innings to finish at an even 100."
+  },
+  {
+    "category": "Sports",
+    "fact_text": "Chess is officially recognized as a sport by the International Olympic Committee (IOC), with grandmasters burning up to 6,000 calories a day during intense multi-day tournaments."
+  },
+  {
+    "category": "General Knowledge",
+    "fact_text": "The hashtag symbol (#) is officially named an 'octothorpe'; the 'octo' refers to its eight radiating points, while 'thorpe' comes from the Old English word for a village or estate."
+  },
+  {
+    "category": "General Knowledge",
+    "fact_text": "The letter 'E' is the most commonly used letter in the English language, appearing in roughly 11% of all English words, while 'Q' and 'Z' are the least common."
+  },
+  {
+    "category": "General Knowledge",
+    "fact_text": "The sentence 'The quick brown fox jumps over the lazy dog' is a pangram, meaning it contains every single letter of the English alphabet at least once."
+  },
+  {
+    "category": "General Knowledge",
+    "fact_text": "The dot over the lowercase letters 'i' and 'j' has an official typographical name: it is called a 'tittle'."
+  },
+  {
+    "category": "General Knowledge",
+    "fact_text": "Bubble wrap was originally invented in 1957 by engineers Alfred Fielding and Marc Chavannes as a textured, tactile wallpaper design before finding its true purpose as protective packaging."
+  },
+  {
+    "category": "General Knowledge",
+    "fact_text": "The national animal of Scotland is the mythical Unicorn, chosen centuries ago because in Celtic folklore the unicorn was regarded as a proud, untamable symbol of nobility and purity."
+  },
+  {
+    "category": "General Knowledge",
+    "fact_text": "A group of flamingos is formally called a 'flamboyance', a group of crows is a 'murder', and a group of owls is called a 'parliament'."
+  },
+  {
+    "category": "General Knowledge",
+    "fact_text": "The plastic or metal sheath placed at the end of a shoelace to prevent it from fraying is called an 'aglet'."
+  },
+  {
+    "category": "General Knowledge",
+    "fact_text": "There are only two countries in the entire world that have the word 'The' as an official grammatical part of their recognized sovereign names: The Bahamas and The Gambia."
+  },
+  {
+    "category": "General Knowledge",
+    "fact_text": "The Eiffel Tower in Paris can grow up to 15 centimeters (6 inches) taller during hot summer days due to thermal expansion of its puddle iron structure."
+  },
+  {
+    "category": "General Knowledge",
+    "fact_text": "The lighter was invented in 1823 by German chemist Johann Wolfgang Döbereiner, several years before the friction match was invented in 1826 by John Walker."
+  },
+  {
+    "category": "General Knowledge",
+    "fact_text": "Play-Doh was originally invented in the 1930s as a pliable wall cleaner designed to wipe off soot and coal residue from wallpaper in homes."
+  },
+  {
+    "category": "General Knowledge",
+    "fact_text": "Oxford English Dictionary records over 170,000 words in current use, but an average native English speaker uses only about 20,000 to 35,000 words actively in their daily vocabulary."
+  },
+  {
+    "category": "General Knowledge",
+    "fact_text": "Rubik's Cube has 43,252,003,274,489,856,000 (over 43 quintillion) possible permutations, yet any configuration can mathematically be solved in 20 moves or fewer (God's Number)."
+  },
+  {
+    "category": "General Knowledge",
+    "fact_text": "The Statue of Liberty was originally a shiny, reddish-copper color when France delivered it to New York in 1885; it gradually turned green due to atmospheric patina oxidation."
+  },
+  {
+    "category": "General Knowledge",
+    "fact_text": "The cardboard sleeve wrapped around hot coffee cups to prevent hands from burning was invented in 1991 by Jay Sorensen and is trademarked as the 'Java Jacket'."
+  }
+]
